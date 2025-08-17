@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
+https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u
